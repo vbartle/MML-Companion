@@ -14,6 +14,8 @@ Throughout the notebooks are also credits attributed to SO posts and blogs that 
 ## Usage.
 There are several libraries imported throughout the notebook. As a tip, you can pip install within a running notebook if you are missing any imports. The primary libraries are fairly common, such as numpy, matplotlib, and sympy, but there are some instances of more obscure libraries like networkx. 
 
+For preview purposes, some notebooks might not render through github alone, in which case you can use https://nbviewer.jupyter.org/. 
+
 ## Errors.
 There are undoubtedly errors and typos and most critically my own misunderstandings of the text. Please feel free to raise an issue here or make a pull request if you find these, it will help both of us deepen our understanding! Additionally, below is a collection of to-do’s that would enhance these notebooks greatly. 
 
@@ -25,3 +27,8 @@ There are undoubtedly errors and typos and most critically my own misunderstandi
 5. Notebook on Lagrangian multipliers. 
 
 ## Screenshots. 
+![alt text](https://github.com/vbartle/MML-Companion/blob/master/screenshots/companion1.png?raw=true)
+![alt text](https://github.com/vbartle/MML-Companion/blob/master/screenshots/companion2.png?raw=true)
+![alt text](https://github.com/vbartle/MML-Companion/blob/master/screenshots/companion3.png?raw=true)
+![alt text](https://github.com/vbartle/MML-Companion/blob/master/screenshots/companion4.png?raw=true)
+![alt text](https://github.com/vbartle/MML-Companion/blob/master/screenshots/companion5.png?raw=true)
