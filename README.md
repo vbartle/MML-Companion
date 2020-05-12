@@ -25,3 +25,8 @@ There are undoubtedly errors and typos and most critically my own misunderstandi
 5. Notebook on Lagrangian multipliers. 
 
 ## Screenshots. 
+![alt text](https://github.com/vbartle/MML-Companion/blob/master/screenshots/companion1.png?raw=true)
+![alt text](https://github.com/vbartle/MML-Companion/blob/master/screenshots/companion2.png?raw=true)
+![alt text](https://github.com/vbartle/MML-Companion/blob/master/screenshots/companion3.png?raw=true)
+![alt text](https://github.com/vbartle/MML-Companion/blob/master/screenshots/companion4.png?raw=true)
+![alt text](https://github.com/vbartle/MML-Companion/blob/master/screenshots/companion5.png?raw=true)
