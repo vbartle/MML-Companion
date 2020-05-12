@@ -12,7 +12,7 @@ This companion might also be helpful to anyone who might want to do their own re
 Throughout the notebooks are also credits attributed to SO posts and blogs that provided guidance.
 
 ## Usage.
-There are several libraries imported throughout the notebook. As a tip, you can pip install within a running notebook if you are missing any imports. The primary libraries are fairly common, such as numpy, matplotlib, and sympy, but there are some instances of more obscure libraries like networkx. 
+Once you've cloned this repo, there are several libraries imported throughout the notebooks that you might need to install. As a tip, you can pip install within a running notebook if you are missing any imports. The primary libraries are fairly common, such as numpy, matplotlib, and sympy, but there are some instances of more obscure libraries like networkx. 
 
 For preview purposes, some notebooks might not render through github alone, in which case you can use https://nbviewer.jupyter.org/. 
 
