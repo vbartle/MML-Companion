@@ -14,7 +14,8 @@ Throughout the notebooks are also credits attributed to SO posts and blogs that 
 ## Usage.
 Once you've cloned this repo, there are several libraries imported throughout the notebooks that you might need to install. As a tip, you can pip install within a running notebook if you are missing any imports. The primary libraries are fairly common, such as numpy, matplotlib, and sympy, but there are some instances of more obscure libraries like networkx. 
 
-For preview purposes, some notebooks might not render through github alone, in which case you can use https://nbviewer.jupyter.org/. 
+For preview purposes, some notebooks might not render through github alone, and also note that the github preview will sometimes fail to format <img src="https://latex.codecogs.com/gif.latex?LaTeX" /> 
+ properly, in which case you're best off using Jupyter's previewer: https://nbviewer.jupyter.org/  
 
 ## Errors.
 There are undoubtedly errors and typos and most critically my own misunderstandings of the text. Please feel free to raise an issue here or make a pull request if you find these, it will help both of us deepen our understanding! Additionally, below is a collection of to-do’s that would enhance these notebooks greatly. 
